@@ -1,5 +1,5 @@
 
-const input = require('sync-input')
+const input = require('sync-input');
 
 let supply = {
     water: 400,
