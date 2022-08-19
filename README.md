@@ -12,7 +12,7 @@ There are several commands it can carry out:
   On today's menu there are latte, cappuccino and espresso. And that's not all! 
   You're welcome to add one the of the available syrups. Would it be hazelnut, almond or vanilla? The choice is up to you!
   
-- and don't forget that you have to select 'exit' to turn it off!
+- and don't forget that you have to select 'exit' to turn the machine off!
 
 Let's go and have a cup of this truly divine beverage!
 
