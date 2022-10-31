@@ -1,7 +1,7 @@
 # Coffee-Machine
 Let's have a coffee, shall we? :wink:
 
-This elaborated program is a simplified version of a real coffee machine.
+This program is a simplified version of a real coffee machine.
 There are several commands it can carry out:
 
 - present you its status of all available ingredients needed to make a drink, and the current revenue;
